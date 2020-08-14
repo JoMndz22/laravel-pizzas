@@ -1,3 +1,23 @@
+## Detalles de Proyecto
+
+Detalles: 
+Base de datos adjunta.
+Configurar .env
+Endpoints con Postman - Ingredientes - Pizzas - Sucursales - Usuarios 
+Login para mostrar pedidos(credenciales correo y password: josue.mendez087@gmail.com)
+
+Vistas:
+/
+/ingredientes
+/ingredientes/create
+/ingredientes/id/edit
+/sucursales
+/sucursales/create
+/sucursales/sucursales
+/crea-tu-pizza
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
