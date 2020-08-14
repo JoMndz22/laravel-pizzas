@@ -1,0 +1,52 @@
+.text-green{
+  color: #148f6a;
+}
+.bg-green{
+  background-color: #148f6a !important;
+}
+.bg-header{
+  background-color: #148f6a;
+}
+.bg-red-pizza{
+  background-color: #ed1a2d;
+}
+
+
+
+nav li.nav-item.active a {
+  color: #ff0000c9 !important;
+  font-weight: 900;
+  border-bottom: 1px solid #ff0000c9 !important;
+}
+
+
+/*LOGIN*/
+.container-login{
+  height: 100vh;
+}
+.dv-login{
+  margin-top: 32vh;
+}
+.form-login ::placeholder{
+  color: #ffffff;
+}
+.dv-ingredientes{
+  position: relative;
+}
+.img-back{
+  position: absolute;
+  right: 0;
+  z-index: -2;
+  bottom: 0;
+  opacity: .1;
+}
+
+
+.box{
+  width: 50%;
+}
+@media (max-width: 767px){
+  .box{
+    width: 90%;
+  }
+}
