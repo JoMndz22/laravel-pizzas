@@ -1,20 +1,20 @@
 ## Detalles de Proyecto
 
-Detalles: 
-Base de datos adjunta.
-Configurar .env
-Endpoints con Postman - Ingredientes - Pizzas - Sucursales - Usuarios 
-Login para mostrar pedidos(credenciales correo y password: josue.mendez087@gmail.com)
+<p>Detalles:  </p>
+<p>Base de datos adjunta. </p>
+<p>Configurar .env </p>
+<p>Endpoints con Postman - Ingredientes - Pizzas - Sucursales - Usuarios  </p>
+<p>Login para mostrar pedidos(credenciales correo y password: josue.mendez087@gmail.com) </p>
 
-Vistas:
-/
-/ingredientes
-/ingredientes/create
-/ingredientes/id/edit
-/sucursales
-/sucursales/create
-/sucursales/sucursales
-/crea-tu-pizza
+<p>Vistas: </p>
+<p>/ </p>
+<p>/ingredientes </p>
+<p>/ingredientes/create </p>
+<p>/ingredientes/id/edit </p>
+<p>/sucursales </p>
+<p>/sucursales/create </p>
+<p>/sucursales/sucursales </p>
+<p>/crea-tu-pizza </p>
 
 
 
